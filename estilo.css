@@ -5,6 +5,6 @@ li{padding:8px;}
 img{border-radius: 15px; padding: 5px;}
 table{border-style:solid; border-width: 5px; border-color:black}
 td{font-size: large; font-weight: bold; border-style: dotted; border-width: 2px; text-align: center; padding: 10px; background-color: rgba(7, 216, 249, 0.2); }
-a:hover{color:rgb(248, 10, 129); font-weight: bold}
+a:hover{color:rgb(248, 10, 129); font-style:italic}
 button{background-color: rgb(157, 18, 18); color:white; padding: 5px; border-radius: 5px; font-weight: bold;}
 #mensagem{color:rgb(157,18,18); background-color: aliceblue; text-align: center; padding: 5px; font-style: italic; font-weight: bold;}
